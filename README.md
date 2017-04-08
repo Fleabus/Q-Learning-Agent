@@ -1,6 +1,8 @@
 # Q-Learning-Agent
 Classes for implementing Q Learning Agents using Tensorflow.
 
+Requires tensorflow to be installed
+
 # Using the QAgent class
 The Q-Agent class is a simple implementation of a neural network that predicts Q values mapped to actions. 
 
